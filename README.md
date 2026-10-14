@@ -5,7 +5,7 @@
 
 #
 
-Me chamo **Rafael**, curso o **Técnico em Mecatrônica** [Escola SENAI Antonio Adolpho Lobbe] e sou apaixonado por robótica, automação e sistemas embarcados. Adoro unir o mundo do software ao hardware para dar vida a projetos físicos, explorando desde a programação em C/C++ e Python até o desenvolvimento de circuitos e protótipos.
+**ESSE É O PERFIL DE UM REAL BIGODE DA RATAIADA DO BU**
  
 #
 

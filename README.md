@@ -23,7 +23,7 @@ Quero através deste perfil, reunir meus projetos acadêmicos, estudos e experim
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rafael-andrade-1169a93b4/)
 
 
-<h3 align="left">Minha Stack & Ferramentas ~</h3>
+<h3 align="left">Ferramentas ~</h3>
 
 <!-- Linguagens de Programação -->
 <img 

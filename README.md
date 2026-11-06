@@ -1,6 +1,7 @@
 # Rafael Costa 👋
 
 Student in the Mechatronics Technical Program 👨‍💻.
+
 Through this profile, I want to bring together my academic projects, studies, and experiments that I have developed!
 
 

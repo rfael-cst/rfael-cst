@@ -1,7 +1,7 @@
 # Rafael Costa 👋
 
-Estudante do curso Técnico em Mecatrônica.
-Quero através deste perfil, reunir meus projetos acadêmicos, estudos e experimentos que eu desenvolver.
+Student in the Mechatronics Technical Program.
+Through this profile, I want to bring together my academic projects, studies, and experiments that I have developed!
 
 
 <div align="center">
@@ -11,13 +11,13 @@ Quero através deste perfil, reunir meus projetos acadêmicos, estudos e experim
 
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
-<h3 align="left">🌐 Contato ~</h3>
+<h3 align="left">🌐 Contact ~</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:costa.rfael1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rafael-andrade-1169a93b4/)
 
 
-<h3 align="left">🛠️ Ferramentas ~</h3>
+<h3 align="left">🛠️ Tools ~</h3>
 
 <!-- Linguagens de Programação -->
 <img 

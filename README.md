@@ -9,12 +9,6 @@ Quero através deste perfil, reunir meus projetos acadêmicos, estudos e experim
   </a>
 </div>
 
-#
-
-**com a paciência tudo alcança**
- 
-#
-
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
 <h3 align="left">🌐 Contato ~</h3>

@@ -5,7 +5,7 @@ Quero através deste perfil, reunir meus projetos acadêmicos, estudos e experim
 
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=22&duration=2250&pause=1000&color=002085&width=435&lines=The+world+is+yours%21+%F0%9F%A4%A1" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=22&duration=2250&pause=1000&color=E5A93B&width=435&lines=The+world+is+yours%21+%F0%9F%A4%A1" alt="Typing SVG" /></a>
   </a>
 </div>
 

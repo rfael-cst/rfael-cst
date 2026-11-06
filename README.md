@@ -11,7 +11,7 @@ Quero através deste perfil, reunir meus projetos acadêmicos, estudos e experim
 
 #
 
-**esperando isso aqui virar**
+**com a paciência tudo alcança**
  
 #
 
